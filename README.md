@@ -57,7 +57,7 @@ When running the client, you will be prompted to choose the agent:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Prof. M. Lagoudakis** & **Ioannis Skoulakis** for course material and original HexThello base code    
 - AIMA Pseudocode
